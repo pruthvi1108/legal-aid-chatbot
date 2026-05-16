@@ -1,5 +1,9 @@
 <img width="1024" height="559" alt="WhatsApp Image 2026-05-16 at 10 19 23 AM" src="https://github.com/user-attachments/assets/2f8e3401-6cec-4547-bf69-080775fc61f6" />
 <img width="1600" height="769" alt="WhatsApp Image 2026-05-16 at 10 22 30 AM" src="https://github.com/user-attachments/assets/7eff46df-1a71-424f-a1bf-7f6389b3e3c7" />
+
+
+
+
 # ⚖️ Legal Aid Chatbot API (RAG-Powered)
 
 An AI-powered legal assistance chatbot that simplifies complex legal information using Retrieval-Augmented Generation (RAG).
